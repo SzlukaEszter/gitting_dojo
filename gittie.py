@@ -1,9 +1,5 @@
-def add(a, b):
-    return a + b
-
-def introduce(a, b):
-    c = add(a, b)
-    print('Hello' + str(c))
+def introduce():
+    print("Hello, I'm Evil Gittie!")
 
 
 def joke():
