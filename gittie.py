@@ -7,4 +7,5 @@ def joke():
     print("Mert nem szereti, ha lobog a szeme.")
 
 def shout():
-    (print"OaAAAAÁÁÁÁÁÁAJÉKAÉ")
+    print("OaAAAAÁÁÁÁÁÁAJÉKAÉ")
+    print("AAAAAAAAAAAAAAAAAAAAAAAAAA!")
